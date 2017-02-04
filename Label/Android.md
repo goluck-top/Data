@@ -4,3 +4,7 @@
 
 # 优质IT问答网站
 * [Stack Overflow](http://stackoverflow.com/) (遇到问题，首选IT问答网站)
+
+# material UI相关
+* [material](https://material.io/guidelines/)
+* [安卓自定义View进阶-多点触控详解](http://www.gcssloop.com/customview/multi-touch?utm_source=gank.io&utm_medium=email)
