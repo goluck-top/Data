@@ -1,3 +1,3 @@
-### 众多基础入门语言教程
+### 众多语言的基础入门教程
 
-[runoob.com](http://www.runoob.com/sitemap)
+* [runoob.com](http://www.runoob.com/sitemap)
