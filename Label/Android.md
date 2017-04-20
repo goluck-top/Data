@@ -13,5 +13,7 @@
 # Android 安全资料集
 * [android-security-awesome](https://github.com/enddo/android-security-awesome)
 
-# [Freelander](https://github.com/Freelander/)收集的Android 学习资料收集
+# Android 学习资料收集
 * [Android_Data](https://github.com/Freelander/Android_Data)
+* [Freelander](https://github.com/Freelander/)
+* [android_guides](https://github.com/codepath/android_guides)
