@@ -1,2 +1,2 @@
-# java学习资料收集
+# java瀛︿範璧勬枡鏀堕泦
 * [awesome-java](https://github.com/akullpp/awesome-java)

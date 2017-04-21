@@ -1,2 +1,2 @@
-# python学习资料收集
+# python瀛︿範璧勬枡鏀堕泦
 * [awesome-python](https://github.com/vinta/awesome-python)
