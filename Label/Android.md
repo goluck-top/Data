@@ -1,3 +1,8 @@
+# Android 学习资料收集
+* [Android_Data](https://github.com/Freelander/Android_Data)
+* [awesome-android](https://github.com/JStumpp/awesome-android)
+* [Freelander](https://github.com/Freelander/)
+* [android_guides](https://github.com/codepath/android_guides)
 
 # 优质源码集
 * [google官方Samples](https://github.com/googlesamples) (官方出品，必属精品)
@@ -8,12 +13,8 @@
 
 # material UI相关
 * [material](https://material.io/guidelines/)
+* [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
 * [安卓自定义View进阶-多点触控详解](http://www.gcssloop.com/customview/multi-touch?utm_source=gank.io&utm_medium=email)
 
 # Android 安全资料集
 * [android-security-awesome](https://github.com/enddo/android-security-awesome)
-
-# Android 学习资料收集
-* [Android_Data](https://github.com/Freelander/Android_Data)
-* [Freelander](https://github.com/Freelander/)
-* [android_guides](https://github.com/codepath/android_guides)
