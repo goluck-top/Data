@@ -7,4 +7,5 @@ Datas
 * [MySQL](https://github.com/goluck-top/Data/blob/master/Label/MySQL.md)
 * [Swift](https://github.com/goluck-top/Data/blob/master/Label/Swift.md)
 * [.NET](https://github.com/goluck-top/Data/blob/master/Label/.NET.md)
+* [JS](https://github.com/goluck-top/Data/blob/master/Label/JS.md)
 * [Other](https://github.com/goluck-top/Data/blob/master/Label/Others.md)
