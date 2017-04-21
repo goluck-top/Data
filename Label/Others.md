@@ -13,3 +13,5 @@
 ### 各种语言学习资料
 
 * [awesome](https://github.com/sindresorhus/awesome)
+* [freecodecamp](https://www.freecodecamp.com/?ref=mn)
+* [web-development](https://medium.freecodecamp.com/tagged/web-development)

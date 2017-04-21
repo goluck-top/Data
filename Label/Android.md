@@ -3,7 +3,6 @@
 * [awesome-android](https://github.com/JStumpp/awesome-android)
 * [Freelander](https://github.com/Freelander/)
 * [android_guides](https://github.com/codepath/android_guides)
-
 # 优质源码集
 * [google官方Samples](https://github.com/googlesamples) (官方出品，必属精品)
 
