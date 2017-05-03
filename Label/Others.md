@@ -15,3 +15,6 @@
 * [awesome](https://github.com/sindresorhus/awesome)
 * [freecodecamp](https://www.freecodecamp.com/?ref=mn)
 * [web-development](https://medium.freecodecamp.com/tagged/web-development)
+
+### 软件工程面试指南
+* [interviews](https://github.com/kdn251/interviews/blob/master/README-zh-cn.md)
