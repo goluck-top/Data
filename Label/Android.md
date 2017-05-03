@@ -7,6 +7,7 @@
 * [https://blog.mindorks.com/tagged/android](https://blog.mindorks.com/tagged/android)
 # 优质源码集
 * [google官方Samples](https://github.com/googlesamples) (官方出品，必属精品)
+* [最新最全的 Android 开源项目合集](https://juejin.im/entry/5908235861ff4b0066dc924a)
 
 # 优质IT问答网站
 * [Stack Overflow](http://stackoverflow.com/) (遇到问题，首选IT问答网站)
