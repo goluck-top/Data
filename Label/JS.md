@@ -6,7 +6,8 @@
 
 # js 库
 * [react](https://github.com/facebook/react) 一个声明，高效，灵活的JavaScript库，用于建立用户界面。
-* [vue](https://github.com/vuejs/vue) 一个进步，构建UI Web上可用的JavaScript框架的增量。
+* [vue](https://github.com/vuejs/vue) 一个进步，构建UI Web上可用的JavaScript框架的增量。 [doc](https://vuefe.cn/v2/guide/)
 
 # js 示例 demo or 项目
 * [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)  vue2行政管理系统模板
+* [douban-movie](https://github.com/xingbofeng/douban-movie) 使用webpack + vue + vuex + vue-router + iView构建的douban电影应用程序。
