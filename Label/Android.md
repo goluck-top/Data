@@ -22,5 +22,8 @@
 # Android 安全资料集
 * [android-security-awesome](https://github.com/enddo/android-security-awesome)
 
+# Android 最实践示例
+* [Android-Best-Practices](https://github.com/tianzhijiexian/Android-Best-Practices)
+
 # 性能相关
 [awesome-android-complete-reference](https://github.com/amitshekhariitbhu/awesome-android-complete-reference)
