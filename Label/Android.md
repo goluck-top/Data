@@ -27,3 +27,6 @@
 
 # 性能相关
 [awesome-android-complete-reference](https://github.com/amitshekhariitbhu/awesome-android-complete-reference)
+
+# 面试相关
+[MyNotebook](https://github.com/bboylin/MyNotebook)
