@@ -1,2 +1,4 @@
-# gradle构建系统学习资料收集
-[gradle](https://gradle.org/docs#guides)
+# gradle鏋勫缓绯荤粺瀛︿範璧勬枡鏀堕泦
+* [gradle](https://gradle.org/docs#guides)
+* [Gradle Android鎻掍欢鐢ㄦ埛鎸囧崡缈昏瘧](https://avatarqing.github.io/Gradle-Plugin-User-Guide-Chinese-Verision/)
+* [Gradle for Android](https://segmentfault.com/a/1190000004229002)
