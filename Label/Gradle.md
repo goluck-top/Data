@@ -2,3 +2,4 @@
 * [gradle](https://gradle.org/docs#guides)
 * [Gradle Android插件用户指南翻译](https://avatarqing.github.io/Gradle-Plugin-User-Guide-Chinese-Verision/)
 * [Gradle for Android](https://segmentfault.com/a/1190000004229002)
+* [Gradle自定义Plugin](http://www.jianshu.com/p/bcaf9a269d96)
