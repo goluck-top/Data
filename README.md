@@ -9,3 +9,4 @@ Datas
 * [.NET](https://github.com/goluck-top/Data/blob/master/Label/.NET.md)
 * [JS](https://github.com/goluck-top/Data/blob/master/Label/JS.md)
 * [Other](https://github.com/goluck-top/Data/blob/master/Label/Others.md)
+* [Kotlin](https://github.com/goluck-top/Data/blob/master/Label/Kotlin.md)
