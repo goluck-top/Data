@@ -12,3 +12,6 @@
 # js 示例 demo or 项目
 * [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)  vue2行政管理系统模板
 * [douban-movie](https://github.com/xingbofeng/douban-movie) 使用webpack + vue + vuex + vue-router + iView构建的douban电影应用程序。
+
+# js lib
+* [Moment.js文档 时间相关处理](http://momentjs.com/docs/#/parsing/unix-timestamp/)
