@@ -6,6 +6,8 @@
 * [http://dev.dafan.info/info/android.html](http://dev.dafan.info/info/android.html)
 * [https://blog.mindorks.com/tagged/android](https://blog.mindorks.com/tagged/android)
 * [mindorks](https://mindorks.com/open-source-projects)
+* [android示例代码](https://www.mkyong.com/android/)
+
 # 优质源码集
 * [google官方Samples](https://github.com/googlesamples) (官方出品，必属精品)
 * [最新最全的 Android 开源项目合集](https://juejin.im/entry/5908235861ff4b0066dc924a)
