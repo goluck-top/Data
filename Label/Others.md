@@ -12,8 +12,10 @@
 
 ### 各种语言学习资料
 
+* [实验楼](https://www.shiyanlou.com)
 * [awesome](https://github.com/sindresorhus/awesome)
 * [freecodecamp](https://www.freecodecamp.com/?ref=mn)
+* [Nginx configuration template](https://github.com/nginx-boilerplate/nginx-boilerplate)
 * [web-development](https://medium.freecodecamp.com/tagged/web-development)
 
 ### 各种语言框架学习资料
