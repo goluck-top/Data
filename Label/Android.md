@@ -31,10 +31,11 @@
 * [Android-Best-Practices](https://github.com/tianzhijiexian/Android-Best-Practices)
 
 # 性能相关
-[awesome-android-complete-reference](https://github.com/amitshekhariitbhu/awesome-android-complete-reference)
+* [awesome-android-complete-reference](https://github.com/amitshekhariitbhu/awesome-android-complete-reference)
 
 # 面试相关
-[MyNotebook](https://github.com/bboylin/MyNotebook)
+* [MyNotebook](https://github.com/bboylin/MyNotebook)
 
 # android工具
-[godeyes](http://godeyes.duapp.com/) App Crash 隐患扫描
+* [godeyes](http://godeyes.duapp.com/) App Crash 隐患扫描
+* [Android反编译工具总结](http://sunzq1993.com/2017/03/19/Android%E5%8F%8D%E7%BC%96%E8%AF%91%E5%B7%A5%E5%85%B7%E6%80%BB%E7%BB%93/)
