@@ -6,3 +6,6 @@
 
 # java开源代码
 * [搜索java开源代码](http://grepcode.com)
+
+# 设计模式
+* [java-design-patterns](https://github.com/iluwatar/java-design-patterns)
