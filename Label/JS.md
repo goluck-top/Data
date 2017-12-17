@@ -17,3 +17,7 @@
 
 # js lib
 * [Moment.js文档 时间相关处理](http://momentjs.com/docs/#/parsing/unix-timestamp/)
+
+# vue 扩展
+
+* [https://github.com/WeiChiaChang/vue-elevator](https://github.com/WeiChiaChang/vue-elevator)
