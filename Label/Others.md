@@ -12,6 +12,7 @@
 
 ### 各种语言学习资料
 
+* [https://github.com/521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
 * [实验楼](https://www.shiyanlou.com)
 * [awesome](https://github.com/sindresorhus/awesome)
 * [freecodecamp](https://www.freecodecamp.com/?ref=mn)
