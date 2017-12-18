@@ -3,4 +3,5 @@
 * [Django](http://python.usyiyi.cn/django/index.html)
 * [python框架文档](http://python.usyiyi.cn/)
 * [Python学习](https://github.com/xxg1413/python)
+* [python 教程](https://www.liaoxuefeng.com/wiki)
 * [python示例代码](https://www.mkyong.com/python/)
