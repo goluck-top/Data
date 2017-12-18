@@ -8,6 +8,7 @@
 * [mindorks](https://mindorks.com/open-source-projects)
 * [android示例代码](https://www.mkyong.com/android/)
 * [Android学习文档和工具](https://github.com/foxleezh/AndroidDoc)
+* [Android 相关培训书籍](https://www.gitbook.com/@google-developer-training)
 
 # 优质源码集
 * [google官方Samples](https://github.com/googlesamples) (官方出品，必属精品)
