@@ -1,4 +1,5 @@
 # js 框架学习资料收集
+* [JavaScript 学习资料](http://www.w3school.com.cn/js/js_intro.asp)
 * [awesome-vue](https://github.com/vuejs/awesome-vue) 应用框架
 * [http://www.aseoe.com/](http://www.aseoe.com/)
 * [awesome-marionette](https://github.com/sadcitizen/awesome-marionette) 应用框架
