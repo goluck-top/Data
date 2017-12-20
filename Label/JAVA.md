@@ -9,3 +9,6 @@
 
 # 设计模式
 * [java-design-patterns](https://github.com/iluwatar/java-design-patterns)
+
+## java相关开源项目
+* [使用spring boot打造文件文档在线预览项目解决方案](https://github.com/kekingcn/file-online-preview)
