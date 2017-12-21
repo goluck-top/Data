@@ -1,4 +1,6 @@
 # js 框架学习资料收集
+* [Web 技术文档](https://developer.mozilla.org/zh-CN/docs/Web)
+* [JavaScript 参考文档](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/Bitwise_Operators)
 * [JavaScript 学习资料](http://www.w3school.com.cn/js/js_intro.asp)
 * [awesome-vue](https://github.com/vuejs/awesome-vue) 应用框架
 * [http://www.aseoe.com/](http://www.aseoe.com/)
