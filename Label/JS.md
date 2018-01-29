@@ -1,4 +1,5 @@
 # js 框架学习资料收集
+* [印记中文](https://www.docschina.org/)
 * [Web 技术文档](https://developer.mozilla.org/zh-CN/docs/Web)
 * [JavaScript 参考文档](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/Bitwise_Operators)
 * [JavaScript 学习资料](http://www.w3school.com.cn/js/js_intro.asp)
